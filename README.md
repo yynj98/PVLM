@@ -75,7 +75,7 @@ bash run/run.sh
 We report the average performance as we mentioned in the [supplementary material](https://ieeexplore.ieee.org/ielx7/9859562/9858923/9859654/976_S.zip). You can obtain the maximum values, mean values and standard deviations according to `gather_results.py`. Do not forget to modify the dataset and template settings in `gather_results.py` before running.
 
 ```shell
-python gather_std.py
+python gather_results.py
 ```
 
 The average performance will be stored as a text file in the corresponding directory. 
