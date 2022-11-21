@@ -25,7 +25,7 @@ You can download the datasets from the original links below and preprocess the d
 >
 >MASAD: [A Google Drive link](https://drive.google.com/file/d/19YJ8vEYCb-uEKUqSGFmysUTvNzxhVKFE/view?usp=sharing) from https://github.com/12190143/MASAD
 >
->MVSA-S: [A OneDrive link](https://portland-my.sharepoint.com/:u:/g/personal/shiaizhu2-c_my_cityu_edu_hk/EV4aaLrE-nxGs4ZNyZ8J_o8Bj6hui-PnU-FKYtG7S5r_xQ) from http://mcrlab.net/research/mvsa-sentiment-analysis-on-multi-view-social-data/
+>MVSA-S: [A OneDrive link](https://portland-my.sharepoint.com/:u:/g/personal/shiaizhu2-c_my_cityu_edu_hk/Ebcsf1kUpL9Do_u4UfNh7CgBC19i6ldyYbDZwr6lVbkGQQ) from http://mcrlab.net/research/mvsa-sentiment-analysis-on-multi-view-social-data/
 >
 >TumEmo: Two BaiduNetdisk links from https://github.com/YangXiaocui1215/MVAN
 

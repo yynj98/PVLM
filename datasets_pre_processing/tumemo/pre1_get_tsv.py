@@ -3,7 +3,7 @@ Filter https:// http:// @username #hashtag
 '''
 
 # Please excute following commands first
-# $ unzip TumEmo.zip
+# $ unzip all_data.zip
 # $ mv all_data TumEmo_data
 
 import os
