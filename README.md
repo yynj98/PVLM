@@ -64,7 +64,7 @@ We further explain some other arguments:
 
 ### Experiments with multiple runs
 
-We provide `run/run.sh` to carry out our experiments (with a  grid search on `lr_lm_model` and `img_token_len`, running  3 times with different random seeds).
+We provide `run/run.sh` to carry out our experiments (with a grid search on `lr_lm_model` and `img_token_len`, running 3 times with different random seeds).
 
 After a simple configuration, you can get all the results on a specific dataset using the specified template. You can try other `dataset` with other `few_shot_file` and `template`, too.
 

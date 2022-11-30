@@ -68,7 +68,7 @@ class MSAModel(torch.nn.Module):
         self.args = args
         self.label_id_list = label_id_list
 
-        self.tokenizer = BertTokenizer.from_pretrained(args.model_name, local_files_only=True)
+        self.tokenizer = BertTokenizer.from_pretrained(args.model_name)
         self.lm_model = BertForMaskedLM.from_pretrained(args.model_name)
 
         self.embeddings = self.lm_model.bert.get_input_embeddings()
